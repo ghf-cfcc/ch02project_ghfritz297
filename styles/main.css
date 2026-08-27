@@ -1,0 +1,17 @@
+/*
+<-- Gavin Fritz -->
+<-- 8/27/26 -->
+*/
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 3em;
+}
+
+.sample-class {
+    color: #006600;
+}
+
+#footer {
+    font-size: 0.9em;
+}
